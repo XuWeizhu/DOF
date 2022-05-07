@@ -24,7 +24,7 @@ matplotlib
 ## Citation
 
 ```
-@article{}
+Fan, Q., Xu, W., Hu, X. et al. Trilobite-inspired neural nanophotonic light-field camera with extreme depth-of-field. Nat Commun 13, 2130 (2022). https://doi.org/10.1038/s41467-022-29568-y
 ```
 
 ## License
